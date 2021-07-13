@@ -1,3 +1,5 @@
+@import url('https://cdn.jsdelivr.net/gh/uclaacm/westwood_sans/font.css');
+
 * {
   box-sizing: border-box;
 }
@@ -10,7 +12,7 @@ html, body, #app-container {
 }
 
 html {
-  font-family: "Poppins", -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+  font-family: "Westwood Sans", "Poppins", -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
   color: #181818;
   background-color: #F5F6F6;
   font-size: 18px;
